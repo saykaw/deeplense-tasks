@@ -12,7 +12,8 @@
 |------------|--------|--------|--------|
 | Test       | 0.0001 | 0.9759 | 42.3159|
 
-## Task 3B: Finetuning EDSR (refer code for stages description)
+## Task 3B: Finetuning EDSR 
+(refer code for stages description)
 
 | Stage       | MSE    | SSIM   | PSNR   |
 |-------------|--------|--------|--------|
